@@ -1,0 +1,9 @@
+git 
+Tracks history
+Free and open source
+Supports non-linear development
+Creates backups
+Scalable
+Supports collaboration
+Branching is easier
+Distributed development
