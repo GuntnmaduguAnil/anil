@@ -7,3 +7,4 @@ Scalable
 Supports collaboration
 Branching is easier
 Distributed development
+git commands
