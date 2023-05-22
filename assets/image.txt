@@ -1,10 +1,7 @@
-u«Zµìmþ™ZŠvÚ±î¸primitive data types
-non primitive data types
-js objects
-js arrays
-string concatenation
-js string methods
-js math
-js random
-js booleans
-
+u«Zµìmþ™ZŠvÚ±î¸css box model*
+css margins*
+css borders*
+css opacity*
+css tables
+css backgrounds*
+css forms
