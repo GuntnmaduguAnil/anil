@@ -1,0 +1,10 @@
+u«Zµìmþ™ZŠvÚ±î¸primitive data types
+non primitive data types
+js objects
+js arrays
+string concatenation
+js string methods
+js math
+js random
+js booleans
+
